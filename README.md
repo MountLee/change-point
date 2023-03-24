@@ -7,3 +7,7 @@ https://github.com/MountLee/CPD_BT
 
 ## An efficient and unified methodology for change point detection
 https://github.com/MountLee/DCDP
+
+
+## Change point detection for multi-layer networks
+https://github.com/MountLee/MRDPG
